@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center"> 
+   <img 
+    src="https://github-readme-stats.vercel.app/api?username=OssiLV&show_icons=true&theme=transparent"
+    alt="My Github stats"
+    height="220"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OssiLV&layout=donut&hide=JavaScript,html,Makefile,css,GLSL,Jupyter+Notebook,Shell,Lua,Assembly,Objective-C,Scala&theme=transparent"
+    alt="My Language stats"
+    height="220"
+  />
+</div>
