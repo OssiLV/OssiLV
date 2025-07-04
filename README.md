@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center"> 
+<div align="left"> 
    <img 
     src="https://github-readme-stats.vercel.app/api?username=OssiLV&show_icons=true&theme=transparent"
     alt="My Github stats"
@@ -28,3 +28,5 @@ Here are some ideas to get you started:
     height="220"
   />
 </div>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/64903665779070ae624b8c38?variant=dark&roadmaps=devops%2Clinux)](https://roadmap.sh)
