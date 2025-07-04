@@ -22,11 +22,11 @@ Here are some ideas to get you started:
     alt="My Github stats"
     height="220"
   />
-  <img 
+<!--   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=OssiLV&layout=donut&hide=JavaScript,html,Makefile,css,GLSL,Jupyter+Notebook,Shell,Lua,Assembly,Objective-C,Scala&theme=transparent"
     alt="My Language stats"
     height="220"
-  />
+  /> -->
 </div>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64903665779070ae624b8c38?variant=dark&roadmaps=devops%2Clinux)](https://roadmap.sh)
