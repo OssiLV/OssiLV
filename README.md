@@ -59,7 +59,7 @@ Check out what I'm learning and building next on
 
 📌 [Roadmap.sh Profile →](https://roadmap.sh/u/ossilv)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/64903665779070ae624b8c38?variant=light&roadmaps=devops%2Clinux)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/64903665779070ae624b8c38?variant=light)](https://roadmap.sh/u/ossilv)
 
 ---
 
@@ -73,5 +73,7 @@ Check out what I'm learning and building next on
 ### 📈 GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=OssiLV&show_icons=true&theme=transparent" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OssiLV&layout=compact&theme=transparent" /> </p>
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OssiLV&label=Profile%20views&color=0e75b6&style=flat" alt="OssiLV" /> </p>
