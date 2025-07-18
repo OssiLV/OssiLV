@@ -47,19 +47,7 @@ I'm **Trường aka OssiLV**, a DevOps fresher passionate about automation, infr
 |-----------|----------------|--------|
 | [**Calculator**](https://github.com/OssiLV/Calculator) | First DevOps lab: Build & publish a Java-based calculator app using Docker & Jenkins CI/CD pipeline to DockerHub | Java, Docker, Jenkins, GitHub |
 
-
-
 > 🛠 More projects coming soon... stay tuned!
-
----
-
-### 🧭 My Learning Roadmap
-
-Check out what I'm learning and building next on  
-
-📌 [Roadmap.sh Profile →](https://roadmap.sh/u/ossilv)
-
-[![roadmap.sh](https://roadmap.sh/card/wide/64903665779070ae624b8c38?variant=light)](https://roadmap.sh/u/ossilv)
 
 ---
 
