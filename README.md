@@ -14,6 +14,8 @@ I'm **Trường aka OssiLV**, a DevOps fresher passionate about automation, infr
 - ☁️ AWS (EC2, S3, IAM)
 - 🐧 Linux (Ubuntu)
 
+Maybe you want to check my [**Notebook**](https://olvnotebook.vercel.app)
+
 
 #### 📬 Let's Connect!
 <p align="center">
