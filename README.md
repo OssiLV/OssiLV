@@ -26,18 +26,6 @@ Maybe you want to check my [**Notebook**](https://olvnotebook.vercel.app)
 
 ---
 
-### 🧰 Tech Stack
-
-| Category         | Tools |
-|------------------|-------|
-| 📚 **Languages**    | ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![C#](https://skillicons.dev/icons?i=cs) ![Java](https://skillicons.dev/icons?i=java) |
-| ⚙️ **CI/CD**        | ![GitHub Actions](https://skillicons.dev/icons?i=github) ![Jenkins](https://skillicons.dev/icons?i=jenkins) |
-| 📦 **Containers**   | ![Docker](https://skillicons.dev/icons?i=docker) |
-| ☁️ **Cloud & IaC**  | ![AWS](https://skillicons.dev/icons?i=aws) |
-| 🛠️ **OS & Tools**   | ![Linux](https://skillicons.dev/icons?i=linux) ![Git](https://skillicons.dev/icons?i=git) ![Bash](https://skillicons.dev/icons?i=bash) ![VSCode](https://skillicons.dev/icons?i=vscode) ![JetBrains](https://skillicons.dev/icons?i=webstorm) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Postman](https://skillicons.dev/icons?i=postman) |
-
----
-
 ### 🧪 Projects
 
 | 🧱 Project | 📋 Description | 🧰 Tech |
